@@ -14,7 +14,7 @@ information:
     info: "+82-2-2123-7608"
   - label: "Office"
     info: "Science Hall #532, Yonsei University"
-  - label: "webpage"
+  - label: "https://sites.google.com/yonsei.ac.kr/hyeong/"
     info: ""
 weight: 4
 ---
