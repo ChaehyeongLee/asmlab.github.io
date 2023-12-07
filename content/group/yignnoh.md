@@ -15,7 +15,7 @@ information:
     info: "Yonsei Milk Co. Bldg #120, Yonsei University"
   - label: "webpage"
     info: "http://gfdl.yonsei.ac.kr"
-weight: 2
+weight: 1
 ---
 
 #### Research Interests

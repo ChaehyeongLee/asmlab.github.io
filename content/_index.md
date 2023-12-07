@@ -20,6 +20,7 @@ geekdocHidden: true
       .jb-text { position: absolute; top: 50%; width: 100%; }
       .jb-text p { margin-top: -24px; text-align: center; font-size: min(8vw, 4em); color: #ffffff; }
       #banner { font-size: min(6vw, 3.5em); display: block; background: center / cover no-repeat url("/images/banner.png"); width: 100%; height: 4em; color: white; margin-top: 0.5em; padding-top: 1.5em;}
+      #hiring { font-size: min(6vw, 3.5em); display: block; background: center / cover no-repeat url("/images/hiring.jpeg"); width: 100%; height: 4em; color: white; margin-top: 0.5em; padding-top: 1.5em;}
     </style>
   </head>
   <body>
@@ -36,6 +37,9 @@ geekdocHidden: true
     <a id="banner" href="/model" target="_blank">
       <span style="background: rgba(0,0,0,0.5);">Check out our model result</span>
     </a>
+    <a id="hiring" href="https://forms.gle/Aq8ktWYuw5jsL8Vm7" target="_blank">
+      <span span style="background: rgba(0,0,0,0.5);">학부인턴 모집</span>
+    </a>
   </body>
 </html>
 
@@ -43,6 +47,23 @@ geekdocHidden: true
 <div class="swiffy-slider slider-item-show3 slider-nav-visible slider-nav-animation slider-nav-animation-appear slider-nav-outside-expand">
 <html lang="ko">
   <ul class="slider-container py-4" id="slider2">
+    <!-- item #1 -->
+    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-16x9">
+          <img src="/images/tak2023.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Tak et al. (2023)</strong>
+            <p class="card-text">"Physical and biogeochemical responses in the Southern Ocean to a simple parameterization of Langmuir circulation"</p>
+          </div>
+          <a href="https://doi.org/10.1016/j.ocemod.2022.102152">
+          <div class="px-md-2">in Ocean Modelling</div>
+      </a>
+        </div>
+      </div>
+    </li>
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
