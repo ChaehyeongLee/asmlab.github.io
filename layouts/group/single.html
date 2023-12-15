@@ -9,12 +9,16 @@
 
 	<div class="gdoc-columns flex flex-wrap flex-mobile-column">
      <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
+	  {{ if (eq .Params.title "Alumni") }}
+
+	  {{ else }}
 	  <h4>Information</h4>
       <ul>
        {{ range .Params.Information }}
        <li>{{ .label }} : &nbsp <strong>{{ .info | markdownify }}</strong></li>
        {{ end }}
       </ul>
+	  {{ end }}
      </div>
      <div class="gdoc-columns__content gdoc-markdown--nested flex-even">
       <img class="rounded" src="{{ .Params.Image | relURL }}" alt="">
