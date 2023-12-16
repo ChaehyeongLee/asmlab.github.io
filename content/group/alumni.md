@@ -36,11 +36,11 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td>Postdoctoral Researcher<br>(2023)</td>
       <td>Currently Postdoctoral Researcher at Princeton University/GFDL</td>
     </tr>
-    <tr>
+    <!--tr>
       <td style="min-width:100px"></td>
       <td>Chohyun Lee</td>
       <td></td>
       <td></td>
-    </tr>
+    </tr-->
   </tbody>
 </table>
