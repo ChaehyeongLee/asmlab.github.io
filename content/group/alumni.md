@@ -25,10 +25,22 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   </thead-->
   <tbody>
     <tr>
-      <td><img src="/images/group/yjtak.jpg" width="100px" alt=""></td>
+      <td style="min-width:100px"><img src="/images/group/yjtak.jpg" width="100px" alt=""></td>
       <td>Yong-Jin Tak</td>
-      <td>Postdoctoral Researcher (2020 - 2022)</td>
+      <td>Postdoctoral Researcher<br>(2020 - 2022)</td>
       <td>Currently Assistant Professor at Gangneung-Wonju National University</td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"><img src="/images/group/kyungminnoh.png" width="100px" alt=""></td>
+      <td>KyungMin Noh</td>
+      <td>Postdoctoral Researcher<br>(2023)</td>
+      <td>Currently Postdoctoral Researcher at Princeton University/GFDL</td>
+    </tr>
+    <tr>
+      <td style="min-width:100px"></td>
+      <td>Chohyun Lee</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
