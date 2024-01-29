@@ -13,6 +13,11 @@ weight: 3
 The tropical climate variabilities, such as Indian Ocean Dipole (IOD) and El Niño Southern Oscillation (ENSO), are accompanied by changes in the tropical deep convection which can influence the atmospheric circulation in the Southern Hemisphere (SH). To investigate each role of IOD and ENSO in the September-November (SON) circulation, we examine teleconnection patterns associated with IOD and ENSO events using the ERA5 monthly averaged data from 1979 to 2020. Our approach is to calculate the power spectral density (PSD) of the sea level pressure (SLP) and meridional wind and geopotential height at 300 hPa that are decomposed by zonal wave numbers (ZWNs), and to compute their correlations with IOD and ENSO at each latitudinal band. The main results are that IOD (ENSO) is negatively (positively) correlated with PSDs of ZWN2 and ZWN3 (ZWN1) at 300 hPa in the SH middle latitudes. Considering the Rossby wave train, IOD (ENSO) considerably affects the variability of the ZWN3 (ZWN1) pattern, which influences the meridional exchange of momentum. Additionally, the relationship between IOD and ZWN3 has become tighter in recent years, which is not seen in that with ENSO. The IOD and ENSO events also modify the SLP patterns and meridional surface winds, modulating the sea ice extent in the Southern Ocean. During the highly positive 2019 IOD event, the variability of the middle latitudes atmospheric circulation was considerably larger than climatology, suggesting a higher chance of more extreme weather patterns associated with more frequent intense IOD events in the warming climate.
 {{< /expand >}}
 
+{{< expand  "Yun, J., K.-J. Ha and S.-S. Lee (2024): Impact of greenhouse warming on mesoscale eddy characteristics in high-resolution climate simulations. _Environmental Research Letters_, 19(1), 014078. https://doi.org/10.1088/1748-9326/ad114b" >}}
+#### Abstract
+Mesoscale eddies are prevalent throughout the global ocean and have significant implications on the exchange of heat, salt, volume, and biogeochemical properties. These small-scale features can potentially influence regional and global climate systems. However, the effects of climate change on ocean eddies remain uncertain due to limited long-term observational data. To address this knowledge gap, our study focuses on examining the impact of greenhouse warming on surface mesoscale eddy characteristics, utilizing a high-resolution climate simulation project. Our model experiments provided valuable insights into the potential effects of greenhouse warming on mesoscale eddies, suggesting that mesoscale eddies will likely become more frequent under greenhouse warming conditions and exhibit larger amplitudes and radii, especially in regions characterized by strong ocean currents such as the Antarctic Circumpolar Current and western boundary currents. However, a distinctive pattern emerged in the Gulf Stream, with increases in eddy occurrence and radius and significant decreases in eddy amplitude. This phenomenon can be attributed to the relationship between eddy lifespans and their properties. Specifically, in the Kuroshio Current, the amplitude of eddies increased due to the increased occurrence of long-lived eddies. In contrast, in the Gulf Stream, the amplitude of eddies decreased significantly due to the decreased occurrence of long-lived eddies. This distinction arises from the fact that long-lived eddies can accumulate more energy than shorter-lived eddies throughout their lifetime. These findings provide valuable insights into the complex dynamics of mesoscale eddies in a warming world.
+{{< /expand >}}
+
 {{< expand "Noh, K.M., J.H. Oh, H.G. Lim, H. Song and J.S Kug (2024): Role of Atlantification in enhanced primary productivity in the Barents Sea. _Earth's Future_, 12(1), e2023EF003709. https://doi.org/10.1029/2023EF003709" >}}
 #### Abstract
 Recent changes in the Arctic sea-ice are strongly influenced by the recent increase in heat transport from vigorous Atlantic inflows, so-called Atlantification. This Atlantification can induce physical and ecological changes near the Atlantic gateway. Here, we used the observational data sets and 26 Earth system models to estimate Atlantic water intrusion, and firstly suggest the impact of Atlantification on marine productivity in the Barents Sea in a warming climate, especially on boreal spring. In a warming climate, the heat transport across the Barents Sea Opening (BSO) is projected to be enhanced (45.5 ± 34.9 TW) by the end of the 21st century compared to the present climate. This poleward intrusion of the Atlantic water is likely to increase productivity with the largest increase in spring (70%). In a warming climate, the productivity is enhanced by Atlantification-induced changes in physical states—ocean temperature, circulations, stratification, and sea-ice. Based on inter-model analyses, we estimated that the Atlantification can explain approximately 26% of the productivity changes in the Barents Sea. Thus, Atlantification is critical for future changes in biological productivity and physical states over the Arctic Ocean.
@@ -54,96 +59,96 @@ The predictability of the sea surface temperature (SST) in seasonal forecast sys
 The Southern Ocean, an important region for the uptake of anthropogenic carbon dioxide (CO2), features strong surface currents due to substantial mesoscale meanders and eddies. These features interact with the wind and modify the momentum transfer from the atmosphere to the ocean. Although such interactions are known to reduce momentum transfer, their impact on air-sea carbon exchange remains unclear. Using a 1/20° physical-biogeochemical coupled ocean model, we examined the impact of the current-wind interaction on the surface carbon concentration and the air-sea carbon exchange in the Southern Ocean. The current-wind interaction decreased winter partial pressure of CO2 (pCO2) at the ocean surface mainly south of the northern subantarctic front. It also reduced pCO2 in summer, indicating enhanced uptake, but not to the same extent as the winter loss. Consequently, the net outgassing of CO2 was found to be reduced by approximately 17% when including current-wind interaction. These changes stem from the combined effect of vertical mixing and Ekman divergence. A budget analysis of dissolved inorganic carbon (DIC) revealed that a weakening of vertical mixing by current-wind interaction reduces the carbon supply from below, and particularly so in winter. The weaker wind stress additionally lowers the subsurface DIC concentration in summer, which can affect the vertical diffusive flux of carbon in winter. Our study suggests that ignoring current-wind interactions in the Southern Ocean can overestimate winter CO2 outgassing.
 {{< /expand >}}
 
-{{<expand "Al-Shehhi, M.R., H. Song, J.R. Scott and J. Marshall (2021). Water mass transformation and overturning circulation in the Arabian Gulf. _Journal of Physical Oceanography_, 51(11), 3513-3527, https://doi.org/10.1175/JPO-D-20-0249.1">}}
+{{< expand "Al-Shehhi, M.R., H. Song, J.R. Scott and J. Marshall (2021): Water mass transformation and overturning circulation in the Arabian Gulf. _Journal of Physical Oceanography_, 51(11), 3513-3527, https://doi.org/10.1175/JPO-D-20-0249.1" >}}
 #### Abstract
 We diagnose the ocean’s residual overturning circulation of the Arabian Gulf in a high-resolution model and interpret it in terms of water-mass transformation processes mediated by air–sea buoyancy fluxes and interior mixing. We attempt to rationalize the complex three-dimensional flow in terms of the superposition of a zonal (roughly along axis) and meridional (transverse) overturning pattern. Rates of overturning and the seasonal cycle of air–sea fluxes sustaining them are quantified and ranked in order of importance. Air–sea fluxes dominate the budget so that, at zero order, the magnitude and sense of the overturning circulation can be inferred from air–sea fluxes, with interior mixing playing a lesser role. We find that wintertime latent heat fluxes dominate the water-mass transformation rate in the interior waters of the Gulf leading to a diapycnal volume flux directed toward higher densities. In the zonal overturning cell, fluid is drawn in from the Sea of Oman through the Strait of Hormuz, transformed, and exits the Strait near the southern and bottom boundaries. Along the southern margin of the Gulf, evaporation plays an important role in the meridional overturning pattern inducing sinking there.
 {{< /expand >}}
 
-{{<expand "Seo, H., H. Song, L.W. O'Neill, M.R. Mazloff and B.D. Cornuelle (2021). Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect. _Journal of Climate_, 34(22), 9093-9113" >}}
+{{< expand "Seo, H., H. Song, L.W. O'Neill, M.R. Mazloff and B.D. Cornuelle (2021). Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect. _Journal of Climate_, 34(22), 9093-9113" >}}
 {{< /expand >}}
 
-{{<expand "Hur, I., M. KIM, K. Kwak, H.M. Sung, Y-H Byun, H. Song and C. Yoo (2021). Hadley circulation in the present and future climate simulations of the K-ACE model. _Asia-Pacific Journal of Atmospheric Sciences_, in press" >}}
+{{< expand "Hur, I., M. KIM, K. Kwak, H.M. Sung, Y-H Byun, H. Song and C. Yoo (2021). Hadley circulation in the present and future climate simulations of the K-ACE model. _Asia-Pacific Journal of Atmospheric Sciences_, in press" >}}
 {{< /expand >}}
 
-{{<expand "Tak, Y. J., H. Song, Y. K. Cho (2021). Impact of the reemergence of North Pacific subtropical mode water on the multi-year modulation of marine heatwaves in the North Pacific Ocean during winter and early spring. _Environmental Research Letters_, 16(7), 074036" >}}
+{{< expand "Tak, Y. J., H. Song, Y. K. Cho (2021). Impact of the reemergence of North Pacific subtropical mode water on the multi-year modulation of marine heatwaves in the North Pacific Ocean during winter and early spring. _Environmental Research Letters_, 16(7), 074036" >}}
 {{< /expand >}}
 
-{{<expand "Doddridge, E. W., J. Marshall, H. Song, J-M Campin and M. Kelley (2021). Southern Ocean heat storage, reemergence, and winter sea ice decline induced by summertime winds. _Journal of Climate_, 34 (4), 1403-1415" >}}
+{{< expand "Doddridge, E. W., J. Marshall, H. Song, J-M Campin and M. Kelley (2021). Southern Ocean heat storage, reemergence, and winter sea ice decline induced by summertime winds. _Journal of Climate_, 34 (4), 1403-1415" >}}
 {{< /expand >}}
 
-{{<expand "Gupta, M., J. Marshall, H. Song, J-M Campin and G. Meneghello (2020). Sea‐Ice Melt Driven by Ice‐Ocean Stresses on the Mesoscale, _Journal of Geophysical Research: Oceans_, 125 (11), e2020JC016404" >}}
+{{< expand "Gupta, M., J. Marshall, H. Song, J-M Campin and G. Meneghello (2020). Sea‐Ice Melt Driven by Ice‐Ocean Stresses on the Mesoscale, _Journal of Geophysical Research: Oceans_, 125 (11), e2020JC016404" >}}
 {{< /expand >}}
 
-{{<expand "Wang, S., Kranz, S. A., Kelly, T. B., Song, H., Stukel, M. R., and Cassar, N. (2020). Lagrangian studies of net community production: The effect of diel and multiday nonsteady state factors and vertical fluxes on O<sub>2</sub>/Ar in a dynamic upwelling region. _Journal of Geophysical Research: Biogeosciences_, 125, e2019JG005569. https://doi.org/10.1029/2019JG005569" >}}
+{{< expand "Wang, S., Kranz, S. A., Kelly, T. B., Song, H., Stukel, M. R., and Cassar, N. (2020). Lagrangian studies of net community production: The effect of diel and multiday nonsteady state factors and vertical fluxes on O<sub>2</sub>/Ar in a dynamic upwelling region. _Journal of Geophysical Research: Biogeosciences_, 125, e2019JG005569. https://doi.org/10.1029/2019JG005569" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., Marshall, J., McGillicuddy, D. J., & Seo, H. (2020). Impact of Current-Wind Interaction on Vertical Processes in the Southern Ocean. _Journal of Geophysical Research: Oceans_, 125(4), e2020JC016046" >}}
+{{< expand "Song, H., Marshall, J., McGillicuddy, D. J., & Seo, H. (2020). Impact of Current-Wind Interaction on Vertical Processes in the Southern Ocean. _Journal of Geophysical Research: Oceans_, 125(4), e2020JC016046" >}}
 {{< /expand >}}
 
-{{<expand "Seo, H., A. C. Subramanian, Song, H., Chowdary, J. S. (2019), Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, _Deep-Sea Res. Pt II_, 168, 104617" >}}
+{{< expand "Seo, H., A. C. Subramanian, Song, H., Chowdary, J. S. (2019), Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, _Deep-Sea Res. Pt II_, 168, 104617" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., J. Marshall, J-M Campin and D. J. McGillicuddy (2019), Impact of near-inertial waves on vertical mixing and air-sea CO<sub>2</sub> fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, 124, 4605–4617" >}}
+{{< expand "Song, H., J. Marshall, J-M Campin and D. J. McGillicuddy (2019), Impact of near-inertial waves on vertical mixing and air-sea CO<sub>2</sub> fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, 124, 4605–4617" >}}
 {{< /expand >}}
 
-{{<expand "Doddridge, E. W., J. Marshall, H. Song, M. Kelley and L. Nazarenko (2019), Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, 46, 4365-4377" >}}
+{{< expand "Doddridge, E. W., J. Marshall, H. Song, M. Kelley and L. Nazarenko (2019), Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, 46, 4365-4377" >}}
 {{< /expand >}}
 
-{{<expand "Kelly, T, R. Goericke, M. Kahru, H. Song and M. R. Stukel: CCE II (2018), Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, 140, 14-25" >}}
+{{< expand "Kelly, T, R. Goericke, M. Kahru, H. Song and M. R. Stukel: CCE II (2018), Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, 140, 14-25" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr. (2018), Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. _Geophys. Res. Lett._, 45, 5011-5019" >}}
+{{< expand "Song, H., M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr. (2018), Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. _Geophys. Res. Lett._, 45, 5011-5019" >}}
 {{< /expand >}}
 
-{{<expand "Stukel, M. R., H. Song, R. Goericke, A. J. Miller (2018), The role of subduction and gravitational sinking in particle export, carbon sequestration, and the remineralization length scale in the California Current Ecosystem. _Limnol. Oceanogr._, 63, 363-383, doi:10.1002/lno.10636" >}}
+{{< expand "Stukel, M. R., H. Song, R. Goericke, A. J. Miller (2018), The role of subduction and gravitational sinking in particle export, carbon sequestration, and the remineralization length scale in the California Current Ecosystem. _Limnol. Oceanogr._, 63, 363-383, doi:10.1002/lno.10636" >}}
 {{< /expand >}}
 
-{{<expand "Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens and M. R. Landry (2017), Deepwater mesoscale fronts enhance export in the California Current Ecosystem. _PNAS_, 114, 1252-1257" >}}
+{{< expand "Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens and M. R. Landry (2017), Deepwater mesoscale fronts enhance export in the California Current Ecosystem. _PNAS_, 114, 1252-1257" >}}
 {{< /expand >}}
 
-{{<expand "Mattern, J. P., H. Song, C. A. Edward, A. M. Moore and J. Fiechter (2017), Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. _Ocean Model._, 109, 55-71" >}}
+{{< expand "Mattern, J. P., H. Song, C. A. Edward, A. M. Moore and J. Fiechter (2017), Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. _Ocean Model._, 109, 55-71" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., J. Marshall, D. R. Munro, S. Dutkiewicz, C. Sweeney, D. J. McGillicuddy Jr. and U. Hausmann (2016): Mesoscale modulation of air-sea CO<sub>2</sub> flux in Drake Passage. _J. Geophys. Res. Oceans._, 121, 6635-6649" >}}
+{{< expand "Song, H., J. Marshall, D. R. Munro, S. Dutkiewicz, C. Sweeney, D. J. McGillicuddy Jr. and U. Hausmann (2016): Mesoscale modulation of air-sea CO<sub>2</sub> flux in Drake Passage. _J. Geophys. Res. Oceans._, 121, 6635-6649" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2016), Data assimilation in a coupled physicalbiogeochemical model of the California Current System using an incremental lognormal 4-dimensional variational approach: Part 1, Model formulation and biological data assimilation twin experiments. _Ocean Model._, 106, 131-145" >}}
+{{< expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2016), Data assimilation in a coupled physicalbiogeochemical model of the California Current System using an incremental lognormal 4-dimensional variational approach: Part 1, Model formulation and biological data assimilation twin experiments. _Ocean Model._, 106, 131-145" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2016), Data assimilation in a coupled physicalbiogeochemical model of the California Current System using an incremental lognormal 4-dimensional variational approach: Part 2, Joint physical and biological data assimilation twin experiments. _Ocean Model._, 106, 146-158" >}}
+{{< expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2016), Data assimilation in a coupled physicalbiogeochemical model of the California Current System using an incremental lognormal 4-dimensional variational approach: Part 2, Joint physical and biological data assimilation twin experiments. _Ocean Model._, 106, 146-158" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2016), Data assimilation in a coupled physicalbiogeochemical model of the California Current System using an incremental lognormal 4-dimensional variational approach: Part 3, Assimilation in a realistic context using satellite and in situ observations. _Ocean Model._, 106, 159-172" >}}
+{{< expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2016), Data assimilation in a coupled physicalbiogeochemical model of the California Current System using an incremental lognormal 4-dimensional variational approach: Part 3, Assimilation in a realistic context using satellite and in situ observations. _Ocean Model._, 106, 159-172" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., J. Marshall, M. J. Follows, S. Dutkiewicz and G. Forget (2016), Source waters for the highly productive Patagonian shelf in the southwestern Atlantic. _J. Mar. Syst._, 158, 120-128" >}}
+{{< expand "Song, H., J. Marshall, M. J. Follows, S. Dutkiewicz and G. Forget (2016), Source waters for the highly productive Patagonian shelf in the southwestern Atlantic. _J. Mar. Syst._, 158, 120-128" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., J. Marshall, P. Gaube and D. J. McGillicuddy (2015), Anomalous chlorofluorocarbon uptake by mesoscale eddies in the Drake Passage region. _J. Geophys. Res_. Oceans, 120, 1065-1078" >}}
+{{< expand "Song, H., J. Marshall, P. Gaube and D. J. McGillicuddy (2015), Anomalous chlorofluorocarbon uptake by mesoscale eddies in the Drake Passage region. _J. Geophys. Res_. Oceans, 120, 1065-1078" >}}
 {{< /expand >}}
 
-{{<expand "Edwards, C. A., A. M. Moore, J. P. Mattern, J. Fiechter, H. Song, and M. G. Jacox (2015), Hindcasting and nowcasting the physical and biological state of the California Current System. _CalCOFI Rep._, 56, 11-12" >}}
+{{< expand "Edwards, C. A., A. M. Moore, J. P. Mattern, J. Fiechter, H. Song, and M. G. Jacox (2015), Hindcasting and nowcasting the physical and biological state of the California Current System. _CalCOFI Rep._, 56, 11-12" >}}
 {{< /expand >}}
 
-{{<expand "Miller, A. J., H. Song and A. C. Subramanian (2015), The physical oceanographic environment during the CCELTER Years: Changes in climate and concepts. _Deep-Sea Res. Pt II_, 112, 6-17" >}}
+{{< expand "Miller, A. J., H. Song and A. C. Subramanian (2015), The physical oceanographic environment during the CCELTER Years: Changes in climate and concepts. _Deep-Sea Res. Pt II_, 112, 6-17" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., I. Hoteit, B. D. Cornuelle X. Luo and A. C. Subramanian (2013), An Adjoint-Based Adaptive Ensemble Kalman Filter. _Mon. Wea. Rev._, 141, 3343-3359" >}}
+{{< expand "Song, H., I. Hoteit, B. D. Cornuelle X. Luo and A. C. Subramanian (2013), An Adjoint-Based Adaptive Ensemble Kalman Filter. _Mon. Wea. Rev._, 141, 3343-3359" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2012), Four-dimensional variational data assimilation of positive-definite oceanic variables using a logarithm transformation. _Ocean Model._, 54-55, 1-17" >}}
+{{< expand "Song, H., C. A. Edwards, A. M. Moore and J. Fietcher (2012), Four-dimensional variational data assimilation of positive-definite oceanic variables using a logarithm transformation. _Ocean Model._, 54-55, 1-17" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., A. J. Miller, S. McClatchie, E. D. Weber, K. M. Nieto and D. M. Checkley Jr. (2012), Application of a data-assimilation model to variability of Pacific sardine spawning and survivor habitats with ENSO in the California Current System. _J. Geophys. Res._, 117, C03009" >}}
+{{< expand "Song, H., A. J. Miller, S. McClatchie, E. D. Weber, K. M. Nieto and D. M. Checkley Jr. (2012), Application of a data-assimilation model to variability of Pacific sardine spawning and survivor habitats with ENSO in the California Current System. _J. Geophys. Res._, 117, C03009" >}}
 {{< /expand >}}
 
-{{<expand "Subramanian, A. C., I. Hoteit, B. D. Cornuelle and H. Song (2012), Linear vs Nonlinear Filtering with scale selective corrections for balanced dynamics in a simple atmospheric model. _J. Atmos. Sci._, 69, 3405-3419" >}}
+{{< expand "Subramanian, A. C., I. Hoteit, B. D. Cornuelle and H. Song (2012), Linear vs Nonlinear Filtering with scale selective corrections for balanced dynamics in a simple atmospheric model. _J. Atmos. Sci._, 69, 3405-3419" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., A. J. Miller, B. D. Cornuelle and E. Di Lorenzo (2011), Changes in upwelling and its water sources in the California Current System driven by different wind forcing. _Dynam. Atmos. Oceans._, 12, 170-191" >}}
+{{< expand "Song, H., A. J. Miller, B. D. Cornuelle and E. Di Lorenzo (2011), Changes in upwelling and its water sources in the California Current System driven by different wind forcing. _Dynam. Atmos. Oceans._, 12, 170-191" >}}
 {{< /expand >}}
 
-{{<expand "Song, H., I. Hoteit, B. D. Cornuelle and A. C. Subramanian (2010), An adaptive approach to mitigate background covariance limitations in the ensemble Kalman filter. _Mon. Wea. Rev._, 138, 2825-2845" >}}
+{{< expand "Song, H., I. Hoteit, B. D. Cornuelle and A. C. Subramanian (2010), An adaptive approach to mitigate background covariance limitations in the ensemble Kalman filter. _Mon. Wea. Rev._, 138, 2825-2845" >}}
 {{< /expand >}}
 
 <br>
