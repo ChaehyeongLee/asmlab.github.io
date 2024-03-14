@@ -35,11 +35,11 @@ geekdocHidden: true
       </div>
     </div>
     <a id="banner" href="/model" target="_blank">
-      <span style="background: rgba(0,0,0,0.5);">Check out our model result</span>
+      <span style="background: rgba(0,0,0,0.5);">Check out our simulations</span>
     </a>
-    <a id="hiring" href="https://forms.gle/Aq8ktWYuw5jsL8Vm7" target="_blank">
+    <!--a id="hiring" href="https://forms.gle/Aq8ktWYuw5jsL8Vm7" target="_blank">
       <span span style="background: rgba(0,0,0,0.5);">학부인턴 모집</span>
-    </a>
+    </a-->
   </body>
 </html>
 
@@ -47,6 +47,23 @@ geekdocHidden: true
 <div class="swiffy-slider slider-item-show3 slider-nav-visible slider-nav-animation slider-nav-animation-appear slider-nav-outside-expand">
 <html lang="ko">
   <ul class="slider-container py-4" id="slider2">
+    <!-- item #1 -->
+    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-16x9">
+          <img src="/images/kim_fig3.png" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Kim et al. (2024)</strong>
+            <p class="card-text">"Springtime Southern Hemisphere quasi-stationary planetary wave activities associated With ENSO/IOD"</p>
+          </div>
+          <a href="https://doi.org/10.1029/2023JD039678">
+          <div class="px-md-2">in Journal of Geophysical Research: Atmospheres</div>
+      </a>
+        </div>
+      </div>
+    </li>
     <!-- item #1 -->
     <li>
       <div class="card shadow h-100">
