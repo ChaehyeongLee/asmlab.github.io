@@ -1,5 +1,5 @@
 ---
-title: "JungHee Yun"
+title: "Junghee Yun"
 nickname: "jungheeyun"
 date: "2018-04-08T13:39:46+02:00"
 image: "images/group/jungheeyun.png"

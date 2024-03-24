@@ -36,6 +36,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td>Postdoctoral Researcher<br>(2023)</td>
       <td>Currently Postdoctoral Researcher at Princeton University/GFDL</td>
     </tr>
+    <tr>
+      <td style="min-width:100px"><img src="/images/group/kyunghunhan.png" width="100px" alt=""></td>
+      <td>Kyunghun Han</td>
+      <td>Master<br>(2021 - 2023)</td>
+      <td>Currently Naval Officer</td>
+    </tr>
     <!--tr>
       <td style="min-width:100px"></td>
       <td>Chohyun Lee</td>
