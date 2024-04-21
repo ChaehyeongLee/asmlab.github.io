@@ -15,13 +15,12 @@ type: "post"
 <div class='image'>
 <img src="/images/group/AJIN_resized.png" class="img-responsive; width:50%;" alt="">
 </div>
-<br>
-##### **[Ajin Cho](/group/ajincho/#anchor)** returned to ASML starting June, 2019! Welcome back!
-<br>
+
+**[Ajin Cho](/group/ajincho/#anchor)** returned to ASML starting June, 2019! Welcome back!
 
 <div class='image'>
 <img src="/images/group/kyungminkwak.jpg" class="img-responsive; width:50%;" alt="">
 </div>
-<br>
-##### **[Kyungmin Kwak](/group/kyungminkwak/#anchor)** joined ASML starting July, 2019! We welcome you!
-<br>
+
+**[Kyungmin Kwak](/group/kyungminkwak/#anchor)** joined ASML starting July, 2019! We welcome you!
+

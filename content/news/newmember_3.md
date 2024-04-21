@@ -12,6 +12,4 @@ type: "post"
 ---
 ### A New Member
 
-<br>
-##### **Suji Gwak** joined ASML starting February, 2019! We welcome you!
-<br>
+**Suji Gwak** joined ASML starting February, 2019! We welcome you!
