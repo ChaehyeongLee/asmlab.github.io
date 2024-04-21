@@ -13,8 +13,6 @@ type: "post"
 
 ### A farewell party
 
-<br>
 **Suji Gwak** finished her internship with us at the end of June.
 
 We thank you for your contribution to our lab and wish you the very best!
-<br>

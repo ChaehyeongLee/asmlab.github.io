@@ -12,10 +12,8 @@ type: "post"
 ---
 ### A farewell party
 
-<br>
 Sadly, we had to let **[Ajin Cho](/group/ajincho/#anchor)** and **[Sanghyun Kim](/group/sanghyunkim/#anchor)** go.
 
 Ajin started working in the industry after the graduation and Sanghyun went to UC Davis as an exchange student.
-<br>
+
 We wish you the best!
-<br>
