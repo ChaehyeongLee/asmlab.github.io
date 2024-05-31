@@ -10,7 +10,7 @@ type: "post"
  2024.05.23(목)~05.24(금)에 제주도 국제컨벤션센터에서 한국해양학회 춘계학술대회가 열렸습니다. 저희 연구팀에서는 [송하준 교수님](/group/hajoonsong/#anchor), [조아진](/group/ajincho/#anchor), [곽경민](/group/kyungminkwak/#anchor), [김동혁](/group/dhkim/#anchor), [김유진](/group/yujinkim/#anchor), [이준우](/group/joonwoolee/#anchor), [민형준](/group/hyungjoonmin/#anchor)  연구원이 참석하였습니다. [송하준 교수님](/group/hajoonsong/#anchor)께서는 물리2 세션의 좌장으로 참여해주셨습니다.  
 
 <div class='image'>
-<img src="/images/news/kaost_2024_1.jpg" class="img-responsive; width:50%;" alt="">
+<img src="/images/news/kaost_2024_1.png" class="img-responsive; width:50%;" alt="">
 </div>
 <br>
 
@@ -28,7 +28,7 @@ type: "post"
 
 [조아진 연구원](/group/ajincho/#anchor)은 'The changes in the states of Atmosphere and Ocean, and their fluxes by surface current coupling' 이라는 주제로 구두 발표를 진행하였습니다. 
 <div class='image'>
-<img src="/images/news/kaost_ajin_2024.jpeg" class="img-responsive; width:50%;" alt="">
+<img src="/images/news/kaost_ajin_2024.png" class="img-responsive; width:50%;" alt="">
 </div>
 <br>
 
