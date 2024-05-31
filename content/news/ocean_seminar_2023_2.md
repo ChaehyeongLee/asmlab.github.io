@@ -5,7 +5,7 @@ author: Hajoon Song
 image : "images/news/news_1.jpg"
 bg_image: "images/fromiss2.jpg"
 categories: ["Seminar"]
-tags: ["seminar","ocean"]
+tags: ["conference","ocean"]
 description: ""
 draft: false
 type: "post"

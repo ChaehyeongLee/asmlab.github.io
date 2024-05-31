@@ -30,7 +30,7 @@
     <lastmod>2023-09-07T12:59:40+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/publication/</loc>
-    <lastmod>2024-01-29T22:50:46+09:00</lastmod>
+    <lastmod>2024-05-22T23:14:00+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/group/hyungjoonmin/</loc>
     <lastmod>2023-02-23T18:18:59+09:00</lastmod>
@@ -62,18 +62,23 @@
     <loc>https://airsea.yonsei.ac.kr/news/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>
   </url><url>
-    <loc>https://airsea.yonsei.ac.kr/tags/event/</loc>
-    <lastmod>2024-04-28T00:43:34+09:00</lastmod>
+    <loc>https://airsea.yonsei.ac.kr/news/ocean_seminar_2024_1/</loc>
+    <lastmod>2024-05-27T23:03:07+09:00</lastmod>
+  </url><url>
+    <loc>https://airsea.yonsei.ac.kr/tags/conference/</loc>
+    <lastmod>2024-05-27T23:03:07+09:00</lastmod>
+  </url><url>
+    <loc>https://airsea.yonsei.ac.kr/tags/ocean/</loc>
+    <lastmod>2024-05-27T23:03:07+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/tags/</loc>
-<<<<<<< HEAD
-    <lastmod>2024-04-21T14:23:43+09:00</lastmod>
-=======
-    <lastmod>2024-04-28T00:43:34+09:00</lastmod>
+    <lastmod>2024-05-27T23:03:07+09:00</lastmod>
+  </url><url>
+    <loc>https://airsea.yonsei.ac.kr/tags/event/</loc>
+    <lastmod>2024-05-21T11:21:08+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/mt_2024/</loc>
-    <lastmod>2024-04-28T00:43:34+09:00</lastmod>
->>>>>>> master
+    <lastmod>2024-05-21T11:21:08+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/event_flower_2024/</loc>
     <lastmod>2024-04-08T11:18:03+09:00</lastmod>
@@ -82,9 +87,6 @@
     <lastmod>2024-04-21T14:23:43+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/newmember_8/</loc>
-    <lastmod>2024-03-24T17:51:46+09:00</lastmod>
-  </url><url>
-    <loc>https://airsea.yonsei.ac.kr/tags/conference/</loc>
     <lastmod>2024-03-24T17:51:46+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/osm2024/</loc>
@@ -100,12 +102,6 @@
     <lastmod>2024-03-24T17:51:46+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/ocean_seminar_2023_2/</loc>
-    <lastmod>2023-11-10T10:31:35+09:00</lastmod>
-  </url><url>
-    <loc>https://airsea.yonsei.ac.kr/tags/ocean/</loc>
-    <lastmod>2024-03-24T17:51:46+09:00</lastmod>
-  </url><url>
-    <loc>https://airsea.yonsei.ac.kr/tags/seminar/</loc>
     <lastmod>2023-11-10T10:31:35+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/newmember_7/</loc>
@@ -218,6 +214,9 @@
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/farewell_suji/</loc>
     <lastmod>2024-04-21T14:23:43+09:00</lastmod>
+  </url><url>
+    <loc>https://airsea.yonsei.ac.kr/tags/seminar/</loc>
+    <lastmod>2023-02-23T18:15:15+09:00</lastmod>
   </url><url>
     <loc>https://airsea.yonsei.ac.kr/news/hanyang/</loc>
     <lastmod>2022-04-09T23:32:04+09:00</lastmod>

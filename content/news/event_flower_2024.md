@@ -1,5 +1,5 @@
 ---
-title: "연구실 벚꽃 나들이,2024"
+title: "연구실 벚꽃 나들이, 2024"
 date: 2024-04-05T00:43:34+09:00
 categories: ["Member"]
 tags: ["event"]
