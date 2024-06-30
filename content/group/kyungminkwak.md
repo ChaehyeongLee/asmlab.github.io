@@ -2,7 +2,7 @@
 title: "Kyungmin Kwak"
 nickname: "kyungminkwak"
 date: "2018-04-08T13:39:46+02:00"
-image: "images/group/kyungminkwak.jpg"
+image: "images/group/kwakkyungmin.png"
 bg_image: "images/fromiss2.jpg"
 category: "Ph.D. Program"
 information:
@@ -20,7 +20,7 @@ weight: 3
 ---
 
 #### Education
-+ **M.S.** (2021) Atmospheric Sciences, Yonsei Univ. , Seoul, Korea
++ **M.S.** (2021) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.S.** (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea
 
 

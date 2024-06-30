@@ -15,7 +15,7 @@ information:
   - label: "Office"
     info: "Science Hall #532, Yonsei University"
   - label: "webpage"
-    info: "https://sites.google.com/yonsei.ac.kr/hyeong/"
+    info: "https://sites.google.com/yonsei.ac.kr/hyeong"
 weight: 4
 ---
 
@@ -23,6 +23,7 @@ weight: 4
 + Sea Surface Temperature tendency and variability
 
 #### Education
++ **M.S.** (2023) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.S.** (2022) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards

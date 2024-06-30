@@ -4,8 +4,8 @@ date: 2019-04-12T23:57:16+09:00
 author: Hajoon Song
 image : "images/kmspring3.jpg"
 bg_image: "images/fromiss2.jpg"
-categories: ["Seminar"]
-tags: ["seminar","기상학회"]
+categories: ["Conference"]
+tags: ["conference","기상학회"]
 description: ""
 draft: false
 type: "post"

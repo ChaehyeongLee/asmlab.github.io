@@ -11,6 +11,28 @@ weight: 2
   <ul class="slider-container">
     <li>
       <div class="card border-0">
+        <img src="/images/group_3.jpeg" class="card-img-top" loading="lazy" alt="...">
+        <div class="card-body p-0 pt-2">
+          <div class="d-flex">
+            <h3 class="flex-grow-1 h5">March 11th 2024</h3>
+            <p class="px-2">@Dept. Atmospheric Sciences</p>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="card border-0">
+        <img src="/images/IMG_3730.JPG" class="card-img-top" loading="lazy" alt="...">
+        <div class="card-body p-0 pt-2">
+          <div class="d-flex">
+            <h3 class="flex-grow-1 h5">March 31th 2023</h3>
+            <p class="px-2">@Yonsei University, Seoul</p>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="card border-0">
         <img src="/images/group_tak_farewell.jpeg" class="card-img-top" loading="lazy" alt="...">
         <div class="card-body p-0 pt-2">
           <div class="d-flex">
